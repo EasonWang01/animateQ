@@ -1,0 +1,30 @@
+{
+  "name": "animate-q",
+  "version": "1.0.1",
+  "description": "Easy animate with a animate store",
+  "main": "animateQ.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasonWang01/animateQ.git"
+  },
+  "keywords": [
+    "animate"
+  ],
+  "author": "yicheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EasonWang01/animateQ/issues"
+  },
+  "homepage": "https://github.com/EasonWang01/animateQ#readme"
+}
