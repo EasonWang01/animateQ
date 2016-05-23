@@ -22,6 +22,7 @@ then
 ####Q.getStore
 
 which will show all of the active animate in current state
+
 ![400](https://cloud.githubusercontent.com/assets/11001914/15459097/23cdfc80-20d4-11e6-9f9c-d52e1d137ace.png)
 
 ####Q.stop(selector,animate)
