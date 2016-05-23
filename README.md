@@ -1,9 +1,9 @@
 # Easy animate with a animate store
 
-this is an implementation of animate.css
+This is an implementation of animate.css
 https://github.com/daneden/animate.css
 
-you can use all the feature of animate.css,and only take 37.4K 
+You can use all the feature just like animate.css,and only 37.4KB for the `animateQ.min.js`
 
 
 #Install 
